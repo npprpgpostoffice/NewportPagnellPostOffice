@@ -1,0 +1,5 @@
+# Allow all search engines. Update the domain below if it changes.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.newportpagnellpostoffice.co.uk/sitemap.xml
